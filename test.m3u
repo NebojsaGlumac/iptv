@@ -1,0 +1,29 @@
+#EXTM3U
+#EXTINF:0,SPORT KLUB HD
+http://s2.10gbpstv.info:80/live?channelId=865&uid=3714&deviceUser=rasa&devicePass=QzOA16neakJyZui7NTmN
+#EXTINF:0,SPORT KLUB 1 SR HD
+http://s3.10gbpstv.info:80/live?channelId=656&uid=3714&deviceUser=rasa&devicePass=QzOA16neakJyZui7NTmN
+#EXTINF:0,SPORT KLUB 2 SR HD
+http://s2.10gbpstv.info:80/live?channelId=657&uid=3714&deviceUser=rasa&devicePass=QzOA16neakJyZui7NTmN
+#EXTINF:0,SPORT KLUB 3 SR HD
+http://s1.10gbpstv.info:80/live?channelId=658&uid=3714&deviceUser=rasa&devicePass=QzOA16neakJyZui7NTmN
+#EXTINF:0,SPORT KLUB 4 SR
+http://s4.10gbpstv.info:80/live?channelId=875&uid=3714&deviceUser=rasa&devicePass=QzOA16neakJyZui7NTmN
+#EXTINF:0,SPORT KLUB 5 SR
+http://s4.10gbpstv.info:80/live?channelId=876&uid=3714&deviceUser=rasa&devicePass=QzOA16neakJyZui7NTmN
+#EXTINF:0,SPORT KLUB 6 SR
+http://s4.10gbpstv.info:80/live?channelId=877&uid=3714&deviceUser=rasa&devicePass=QzOA16neakJyZui7NTmN
+#EXTINF:0,SPORT KLUB 1 SR FHD
+http://s3.10gbpstv.info:80/live?channelId=209&uid=3714&deviceUser=rasa&devicePass=QzOA16neakJyZui7NTmN
+#EXTINF:0,SPORT KLUB 2 SR FHD
+http://s2.10gbpstv.info:80/live?channelId=1032&uid=3714&deviceUser=rasa&devicePass=QzOA16neakJyZui7NTmN
+#EXTINF:0,SPORT KLUB 3 SR FHD
+http://s4.10gbpstv.info:80/live?channelId=1033&uid=3714&deviceUser=rasa&devicePass=QzOA16neakJyZui7NTmN
+#EXTINF:-1,Sport Klub 3 FHD HR
+http://cloudcdn.tk:80/live/KsEVHI24319/FiFpbC3457/17917.ts
+#EXTINF:0,SPORT KLUB HR HD
+http://s1.10gbpstv.info:80/live?channelId=18&uid=3714&deviceUser=rasa&devicePass=QzOA16neakJyZui7NTmN
+#EXTINF:0,SPORT KLUB 1 HR HD
+http://s4.10gbpstv.info:80/live?channelId=118&uid=3714&deviceUser=rasa&devicePass=QzOA16neakJyZui7NTmN
+#EXTINF:0,SPORT KLUB 2 HR HD
+http://s1.10gbpstv.info:80/live?channelId=119&uid=3714&deviceUser=rasa&devicePass=QzOA16neakJyZui7NTmN
