@@ -1,0 +1,25 @@
+#EXTM3U
+#EXTINF:-1,RTS 1
+http://tv.trexiptv.com:8000/SDZLpo9jvo/oh1G50d04a/15688
+#EXTINF:-1,RTS 2
+http://tv.trexiptv.com:8000/SDZLpo9jvo/oh1G50d04a/15687
+#EXTINF:-1,RTS 1 HD RS
+http://cloudcdn.tk:80/live/KsEVHI24319/FiFpbC3457/2026.ts
+#EXTINF:-1,RTS 1 RS
+http://cloudcdn.tk:80/live/KsEVHI24319/FiFpbC3457/1463.ts
+#EXTINF:-1,RTS 2 RS
+http://cloudcdn.tk:80/live/KsEVHI24319/FiFpbC3457/1464.ts
+#EXTINF:-1,RTS 3 RS
+http://cloudcdn.tk:80/live/KsEVHI24319/FiFpbC3457/13816.ts
+#EXTINF:-1,RTS Poletarac RS
+http://cloudcdn.tk:80/live/KsEVHI24319/FiFpbC3457/17263.ts
+#EXTINF:-1,RTS Svet RS
+http://cloudcdn.tk:80/live/KsEVHI24319/FiFpbC3457/19812.ts
+#EXTINF:-1,RTS Drama RS
+http://cloudcdn.tk:80/live/KsEVHI24319/FiFpbC3457/28048.ts
+#EXTINF:-1,RTS Muzika RS
+http://cloudcdn.tk:80/live/KsEVHI24319/FiFpbC3457/28047.ts
+#EXTINF:-1,RTS Zivot RS
+http://cloudcdn.tk:80/live/KsEVHI24319/FiFpbC3457/28046.ts
+#EXTINF:-1,RTS Kolo RS
+http://cloudcdn.tk:80/live/KsEVHI24319/FiFpbC3457/28390.ts
